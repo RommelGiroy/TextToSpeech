@@ -1,0 +1,10 @@
+C:\Users\Oswald Cobblepot\source\repos\TextToSpeechApp\WinFormUI\obj\Debug\WinFormUI.frmMain.resources
+C:\Users\Oswald Cobblepot\source\repos\TextToSpeechApp\WinFormUI\obj\Debug\WinFormUI.Properties.Resources.resources
+C:\Users\Oswald Cobblepot\source\repos\TextToSpeechApp\WinFormUI\obj\Debug\WinFormUI.csproj.GenerateResource.cache
+C:\Users\Oswald Cobblepot\source\repos\TextToSpeechApp\WinFormUI\obj\Debug\WinFormUI.csproj.CoreCompileInputs.cache
+C:\Users\Oswald Cobblepot\source\repos\TextToSpeechApp\WinFormUI\bin\Debug\WinFormUI.exe.config
+C:\Users\Oswald Cobblepot\source\repos\TextToSpeechApp\WinFormUI\bin\Debug\WinFormUI.exe
+C:\Users\Oswald Cobblepot\source\repos\TextToSpeechApp\WinFormUI\bin\Debug\WinFormUI.pdb
+C:\Users\Oswald Cobblepot\source\repos\TextToSpeechApp\WinFormUI\obj\Debug\WinFormUI.exe
+C:\Users\Oswald Cobblepot\source\repos\TextToSpeechApp\WinFormUI\obj\Debug\WinFormUI.pdb
+C:\Users\Oswald Cobblepot\source\repos\TextToSpeechApp\WinFormUI\obj\Debug\WinFormUI.csprojAssemblyReference.cache
